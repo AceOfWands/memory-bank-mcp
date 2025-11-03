@@ -220,12 +220,6 @@ This mechanism provides a configurable **cognitive decay system**, enabling the 
 
 ---
 
-## 📊 Results
-
-_Coming soon_
-
----
-
 ## 🚗 Future Roadmap
 
 * [ ] Configurable embedding models
