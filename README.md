@@ -225,7 +225,8 @@ This mechanism provides a configurable **cognitive decay system**, enabling the 
 * [ ] Configurable embedding models
 * [ ] Support for Ollama
 * [ ] Add optional cache
-* [ ] REST interface (for non-MCP clients)
+* [ ] Periodically restructuring links (forgotten notes collector)
+* [ ] Context-aware consolidation (merge or refactor overlapping notes)
 
 ---
 
